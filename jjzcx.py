@@ -75,5 +75,4 @@ def main():
     notification_data = create_notification_data(data)
     send_notification(notification_data)
 
-if __name__ == "__main__":
-    main()
+
